@@ -1,0 +1,107 @@
+use quit
+new yy file
+usage
+yy de struct
+yy wrap
+yy free
+yy re alloc
+yy alloc
+yy lex destroy
+yy init globals
+yy set debug
+yy get debug
+yy set out
+yy set in
+yy set lineno
+yy get text
+yy get len g
+yy get out
+yy get in
+yy get lineno
+yy fatal error
+yy scan byte
+yy scan string
+yy scan buffer
+yy en sure buffer stack
+yy pop buffer state
+yy push buffer state
+yy flush buffer
+yy init buffer
+yy delete buffer
+yy create buffer
+yy load buffer state
+yy switch to buffer
+yy re start
+input
+yy try nul trans
+yy get previous state
+assign
+input char
+prog char
+byte
+stop execution
+long val
+add byte
+init load
+copy array
+copy tree
+free a tree
+auto var
+incr array
+incr var
+decr array
+decr var
+load array
+load var
+store array
+get var
+check stack
+push num
+push copy
+pop
+f push
+f pop
+clear func
+more array
+more variable
+init storage
+bc exit
+rt warn
+rt error
+yy error
+out of memory
+bc malloc
+limit
+init tree
+find id
+out s char
+out char
+run code
+generate
+init gen
+set gen str size
+free args
+call str
+arg str
+next arg
+str copy of
+war r ant y
+show bc version
+welcome
+check f error output
+check f error input
+bc num long
+bc out long
+bc modulo
+bc div mod
+new sub num
+bc be near zero
+bc be zero
+bc be neg
+bc compare
+bc rm lead zero
+bc init num
+bc copy num
+bc init number
+bc free num
+bc new num
